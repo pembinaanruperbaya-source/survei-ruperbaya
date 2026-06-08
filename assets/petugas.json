@@ -1,0 +1,47 @@
+
+{
+  "loket":[
+    {"nama":"Dhema Oktakirana","foto":"loket1.jpg"},
+    {"nama":"Githadana Syalsabila","foto":"loket2.jpg"},
+    {"nama":"Endah Sri Wahyuni","foto":"loket3.jpg"},
+    {"nama":"Novita Yuliana","foto":"loket4.jpg"}
+  ],
+
+  "barang":[
+    {"nama":"Ledy Triananda","foto":"barang1.jpg"},
+    {"nama":"Handini Rahmayanti","foto":"barang2.jpg"},
+    {"nama":"Zhahrul Maratus","foto":"barang3.jpg"},
+    {"nama":"Staff","foto":"barang4.jpg"},
+    {"nama":"Staff","foto":"barang5.jpg"}
+  ],
+
+  "badan":[
+    {"nama":"Yusuf Wijayanto","foto":"badan1.jpg"},
+    {"nama":"Dedey Pradipta","foto":"badan2.jpg"},
+    {"nama":"Andreas Febrian","foto":"badan3.jpg"},
+    {"nama":"Bayu Nova","foto":"badan4.jpg"},
+    {"nama":"Winda Gloria","foto":"badan5.jpg"},
+    {"nama":"Nadia Tri","foto":"badan6.jpg"},
+    {"nama":"Mila Kusuma","foto":"badan7.jpg"},
+    {"nama":"Natalea Krisdiane","foto":"badan8.jpg"},
+    {"nama":"Neuville","foto":"badan9.jpg"}
+  ],
+
+  "aula":[
+    {"nama":"Emma Maria R","foto":"aula1.jpg"},
+    {"nama":"Dewi Tri","foto":"aula2.jpg"},
+    {"nama":"Yurike","foto":"aula3.jpg"},
+    {"nama":"Staff","foto":"aula4.jpg"}
+  ],
+
+  "pintu":[
+    {"nama":"Bagus","foto":"pintu1.jpg"},
+    {"nama":"Dicky","foto":"pintu2.jpg"},
+    {"nama":"Aziz","foto":"pintu3.jpg"},
+    {"nama":"Juang","foto":"pintu4.jpg"},
+    {"nama":"Devin","foto":"pintu5.jpg"},
+    {"nama":"Evan","foto":"pintu6.jpg"},
+    {"nama":"Aldi","foto":"pintu7.jpg"},
+    {"nama":"Pras","foto":"pintu8.jpg"}
+  ]
+}
